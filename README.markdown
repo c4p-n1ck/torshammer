@@ -1,7 +1,9 @@
 ----------------------------------------------------
 # Use for educational purposes ONLY
 
-## This is a maintained fork of Torshammer  
+# I AM SIMPLY NOT RESPONSIBLE FOR YOUR ACTION THIS IS JUST A Proof of Concept demonstrating what's possible.
+
+## This is a maintained fork of Torshammer  (This is just a mirror of @Karlheinzniebuhr/torshammer)
 It works with the new TOR port 9150  
 
 #### TORS HAMMER HOW TO  
